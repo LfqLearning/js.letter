@@ -7,7 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Dear&nbsp;&nbsp;Yan",
-				"亲爱的燕<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间就像黎明的晨曦，匆匆而逝，转眼间我们已一同走过225个日夜！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今天是我们在一起的第一个七夕，很遗憾没能陪在你身边，但以后的日子会很精彩，你也将不再一人————小龙会一直陪伴在小燕身边！！\n！<br><br><p style='float:right; display:block; width:100px;'>^1000最爱你的龙</p>"],
+				"XXXX<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XXXXletter标题XXXXX！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XXXXletter内容XXXXX！\n！<br><br><p style='float:right; display:block; width:100px;'>^1000XXXX写信人XXXX</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
